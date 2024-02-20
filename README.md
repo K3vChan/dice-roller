@@ -1,6 +1,12 @@
 # dice roller
 
-A new Flutter project.
+Simple dice roller to start learning about flutter.
+
+- work with materials
+- modules
+- displaying images and text
+- buttons
+- dart.math lib
 
 ## Getting Started
 
