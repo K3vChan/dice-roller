@@ -1,11 +1,10 @@
 # dice roller
 
 Simple dice roller to start learning about flutter.
-
-- work with materials
+ 
+- work with widgets like materials, buttons
 - modules
 - displaying images and text
-- buttons
 - dart.math lib
 
 ## Getting Started
